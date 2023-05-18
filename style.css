@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	
+}
+
+h1{
+	color:  #FFFFF0;
+	
+}
+
+h4{
+	color:  #DEB887;
+	
+}
+
+span{
+	color: #FFEBCD;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color:  #F5F5DC;
+	border-style: double;
+}
